@@ -1,12 +1,17 @@
 # Twilio
+
 Module for send Whatsapp and SMS from Twilio API
 
-**You must create an account in Twilio's page and get a Trial Number, for more information go to: <a href="https://www.twilio.com/">Twilio</a>
+**You must create an account in Twilio's page and get a Trial Number.
 
-#SMS
+For more information go to: <a href="https://www.twilio.com/">Twilio</a>
+
+SMS
+
 ![alt text](https://raw.githubusercontent.com/rocketbot-cl/Twilio/master/example/twilio_sms.png)
 
-#WHATSAPP
+WHATSAPP
+
 ![alt text](https://raw.githubusercontent.com/rocketbot-cl/Twilio/master/example/twilio_whatsapp.png)
 
 
