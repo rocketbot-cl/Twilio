@@ -23,16 +23,18 @@ Para instalar librerias se debe ingresar por terminal a la carpeta "libs"
     pip install <package> -t .
 
 """
-
+import os
+import sys
+base_path  = tmp_global_obj["basepath"]
+cur_path = base_path + 'modules' + os.sep + 'Twilio_' + os.sep + 'libs' + os.sep
+sys.path.append(cur_path )
+print(cur_path )
 from twilio.rest import Client
 
 """
     Obtengo el modulo que fueron invocados
 """
 module = GetParams("module")
-
-
-
 
 if module == "sendSMS":
     account_sid = GetParams("sid")
