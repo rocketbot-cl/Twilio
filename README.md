@@ -10,6 +10,10 @@ SMS
 
 ![alt text](https://raw.githubusercontent.com/rocketbot-cl/Twilio/master/example/twilio_sms.png)
 
+Video Example:
+
+[![Twilio SMS](https://img.youtube.com/vi/EUgBd7mWE5w/0.jpg)](https://www.youtube.com/watch?v=EUgBd7mWE5w "Twilio SMS")
+
 WHATSAPP
 
 ![alt text](https://raw.githubusercontent.com/rocketbot-cl/Twilio/master/example/twilio_whatsapp.png)
