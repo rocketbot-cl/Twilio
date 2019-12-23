@@ -18,6 +18,11 @@ WHATSAPP
 
 ![alt text](https://raw.githubusercontent.com/rocketbot-cl/Twilio/master/example/twilio_whatsapp.png)
 
+Video Example:
+
+[![Twilio Whatsapp](https://img.youtube.com/vi/0CwyeGtwGU8/0.jpg)](https://www.youtube.com/watch?v=0CwyeGtwGU8 "Twilio Whatsapp")
+
+
 
 <h2>Link to API documentation</h2>
 <p>
