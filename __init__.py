@@ -65,7 +65,6 @@ if module == "sendSMS":
 
 if module == "sendWhatsapp":
 
-    print('MODULO')
     # Download the helper library from https://www.twilio.com/docs/python/install
 
     # Your Account Sid and Auth Token from twilio.com/console
